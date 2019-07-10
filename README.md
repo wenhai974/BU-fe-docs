@@ -13,4 +13,5 @@ features:
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 
-'# Hello VuePress!' 
+# bumo-fe-docs
+A record summarizing the documentation of the bumo front-end group
