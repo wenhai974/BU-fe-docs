@@ -9,6 +9,7 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       { text: '编码规范', link: '/code/standard/' },
+      { text: '鱼塘', link: '/code/fishPond/' },
       {
         text: '代码',
         items: [
@@ -40,6 +41,10 @@ module.exports = {
       '/code/js/': [
         '',
         'js-overview'
+      ],
+      '/code/fishPond/': [
+        '',
+        'array-about'
       ]
     },
     sidebarDepth: 2,
