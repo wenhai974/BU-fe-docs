@@ -1,5 +1,7 @@
 <template>
-	<div class="text">{{text}}</div>
+	<div class="text">{{text}}
+    <a href="javascript:;">innerLink</a>
+  </div>
 </template>
 <script>
 export default {
@@ -20,9 +22,14 @@ export default {
 	beforeDestroy () {},
 }
 </script>
-<style scoped>
+<style lang="less" scoped>
+ @import './base.less';
  .text{
-   color: #ff6c00;
+   color: @color-default;
    font-size: 20px;
+   &>a{
+     color: #0000FF;
+     text-decoration: underline;
+   }
  }
 </style>
