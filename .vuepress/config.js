@@ -40,6 +40,10 @@ module.exports = {
       '/code/js/': [
         '',
         'js-overview'
+      ],
+      '/code/components/': [
+        '',
+        'vouchers'
       ]
     },
     sidebarDepth: 2,
