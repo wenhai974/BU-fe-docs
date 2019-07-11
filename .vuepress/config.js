@@ -45,6 +45,10 @@ module.exports = {
       '/code/fishPond/': [
         '',
         'array-about'
+      ],
+      '/code/components/': [
+        '',
+        'vouchers'
       ]
     },
     sidebarDepth: 2,
