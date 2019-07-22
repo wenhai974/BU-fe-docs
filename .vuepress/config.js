@@ -44,7 +44,9 @@ module.exports = {
       ],
       '/code/fishPond/': [
         '',
-        'array-about'
+        'array-about',
+        'Element-UI-Record',
+        'Webpack-Record'
       ],
       '/code/components/': [
         '',
