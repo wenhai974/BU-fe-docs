@@ -51,6 +51,10 @@ module.exports = {
       '/code/components/': [
         '',
         'vouchers'
+      ],
+      '/code/mini-program/': [
+        '',
+        'wxs'
       ]
     },
     sidebarDepth: 2,
