@@ -17,6 +17,6 @@ footer: MIT Licensed | Copyright © 2019-present Koi
 
 名为一尾小锦鲤的 [Koi](https://github.com/wenhai974)
 
-想要变身皮卡丘的 [goodlcw1](https://github.com/L-cw)
+想要变身皮卡丘的 [goodlcw1](http://lovem.fun)
 
 不愿透露姓名的 [Yoon](https://github.com/lyx0717)
