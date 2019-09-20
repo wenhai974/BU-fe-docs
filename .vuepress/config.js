@@ -47,7 +47,8 @@ module.exports = {
         'fe-study',
         'array-about',
         'Element-UI-Record',
-        'Webpack-Record'
+        'Webpack-Record',
+        'centos-install-python3'
       ],
       '/code/components/': [
         '',
