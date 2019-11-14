@@ -45,6 +45,7 @@ module.exports = {
       '/code/fishPond/': [
         '',
         'fe-study',
+        'fe-vue-project',
         'array-about',
         'Element-UI-Record',
         'Webpack-Record',
