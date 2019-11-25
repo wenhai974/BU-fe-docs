@@ -46,6 +46,7 @@ module.exports = {
         '',
         'fe-study',
         'fe-vue-project',
+        'fe-and-dev',
         'array-about',
         'Element-UI-Record',
         'Webpack-Record',
